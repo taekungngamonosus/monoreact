@@ -1,0 +1,116 @@
+/**
+ * React Starter Kit (https://www.reactstarterkit.com/)
+ *
+ * Copyright © 2014-present Kriasoft, LLC. All rights reserved.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+@import '../../components/variables.css';
+
+ul, dl, ol {
+  text-indent: 0;
+}
+
+.contentIn {
+  width: 100%;
+  background-image: url('./bg_entry01.jpg'), url('./bg_entry02.jpg');
+  background-position: 20px 30px,right 20px top;
+  background-repeat: no-repeat;
+}
+
+.contentIn > h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 0px !important;
+  margin-bottom: 80px;
+  line-height: 1;
+}
+
+.postList {
+  width: 105%;
+  position: relative;
+  overflow: hidden;
+  display: block;
+}
+
+.postList ul {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: block;
+  list-style: none;
+}
+
+.postList li {
+  height: 304px;
+  display: inline-block;
+  float: left;
+  width: 255px;
+  margin: 0 40px 40px 0;
+}
+
+.postList li dl {
+  width: 100%;
+  clear: both;
+}
+
+.postList li dt {
+  width: 100%;
+  margin-bottom: 18px;
+}
+
+.postList li dd {
+  width: 100%;
+  margin-left: 0;
+  margin-bottom: 18px;
+}
+
+.postList li a {
+  font-size: 14px;
+  text-decoration: none;
+  color: #333;
+}
+
+.postList figure {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: hidden;
+}
+
+.postList li figure img {
+  max-width: 100%;
+  height: auto;
+  -webkit-transition: 0.5s;
+  -moz-transition: 0.5s;
+  -ms-transition: 0.5s;
+  -o-transition: 0.5s;
+  transition: 0.5s;
+}
+
+.postList li .day {
+  font-size: 14px;
+  color: #999;
+  margin-bottom: 16px;
+}
+
+.postList li .title {
+  margin-bottom: 12px;
+  line-height: 150%;
+}
+
+.catIcon {
+  font-size: 14px;
+  padding: 0 0 0 24px;
+  background: url('./ico_cat_black_sp.png') no-repeat left center;
+}
+
+.postList li .catIcon {
+  color: #1d5ab6;
+  padding: 0 0 0 18px;
+  -webkit-background-size: 13px auto;
+  -o-background-size: 13px auto;
+  background-size: 13px auto;
+}
