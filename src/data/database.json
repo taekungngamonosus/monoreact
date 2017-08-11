@@ -1,0 +1,169 @@
+{
+  "status": "ok",
+  "configs": {
+    "app_en": "monosus",
+    "app_jp": "ものさす"
+  },
+  "posts": [
+    {
+      "title": "暮らし、仕事、付き合う人々が変化した1年<br />〜経験0からのWebディレクター奮闘記〜",
+      "url": "/posts/2017/07/180705.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017\/07\/20170718_main-thumb-300xauto-4338.jpg",
+      "categoryName": "仕事と暮らし・タイ",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat19",
+      "createdAt": "2017.07.18"
+    },
+    {
+      "title": "コバナシではじまる夏の朝。",
+      "url": "/posts/2017/07/145236.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170712_main-thumb-300xauto-4321.jpg",
+      "categoryName": "朝のコバナシ",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat21",
+      "createdAt": "2017.07.14"
+    },
+    {
+      "title": "貫きたいこだわりがある。<br /> コーディングファクトリーの出版記念セミナーを開催しました。",
+      "url": "",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170713_main-thumb-300xauto-4328.jpg",
+      "categoryName": "TOPICS",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/topics",
+      "createdAt": "2017.07.13"
+    },
+    {
+      "title": "神山ものさす塾・第3期 はじまりました！",
+      "url": "/posts/2017/07/120844.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170720_main-thumb-300xauto-4322.jpg",
+      "categoryName": "神山ものさす塾",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/kamimonojyuku",
+      "createdAt": "2017.07.12"
+    },
+    {
+      "title": "代々木と神山、どうやってく？<br />あれやこれや雑談してみました",
+      "url": "/posts/2017/07/110618.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170711_main-thumb-300xauto-4244.jpg",
+      "categoryName": "Webマスターがゆく",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/web",
+      "createdAt": "2017.07.11"
+    },
+    {
+      "title": "業務ノート+日々の雑記帳＝いつのまにか歴史本",
+      "url": "/posts/2017/07/105533.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170710_main-thumb-300xauto-4313.jpg",
+      "categoryName": "チェックする人々",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/check",
+      "createdAt": "2017.07.10"
+    },
+    {
+      "title": "辛さの向こう側の旨味を求めて。<br /> 〜蒙古タンメン中本への道〜",
+      "url": "/posts/2017/07/074750.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170707_main-thumb-300xauto-4278.jpg",
+      "categoryName": "代々木散策マップ",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat8",
+      "createdAt": "2017.07.07"
+    },
+    {
+      "title": "流れる作業を作り出す コーダーサイトマップ",
+      "url": "/posts/2017/07/064852.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170706_main-thumb-300xauto-4253.jpg",
+      "categoryName": "コーダーのあーだこーだ",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat1",
+      "createdAt": "2017.07.06"
+    },
+    {
+      "title": "ディレクターの議事録活用術<br />〜Googleドキュメントを使って効率アップ〜",
+      "url": "/posts/2017/07/050803.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170705_main-thumb-300xauto-4233.jpg",
+      "categoryName": "Webディレクター.docx",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/webdocx",
+      "createdAt": "2017.07.05"
+    },
+    {
+      "title": "標高600メートルから見えた景色 ",
+      "url": "/posts/2017/07/044657.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/07/20170704_main-thumb-300xauto-4235.jpg",
+      "categoryName": "仕事と暮らし・神山",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat16",
+      "createdAt": "2017.07.04"
+    },
+    {
+      "title": "みんなが誇らしく思うWebサイトへ<br /> ～株式会社東京カンテイ様・インタビュー～",
+      "url": "/posts/2017/07/034508.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170703_main-thumb-300xauto-4158.jpg",
+      "categoryName": "BtoB研",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/btob",
+      "createdAt": "2017.07.03"
+    },
+    {
+      "title": "Open Marketingのはじめかた<br /> Step.1 顧客を信じる -その3- ",
+      "url": "/posts/2017/06/302036.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170630_main-thumb-300xauto-4232.jpg",
+      "categoryName": "Open Marketing",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat11",
+      "createdAt": "2017.06.30"
+    },
+    {
+      "title": "同じ言葉が伝わらない？Webと紙の伝えかた、伝わり方のちがい<br /> - Web制作会社が本をだしてみて気づいたこと -",
+      "url": "/posts/2017/06/294312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170629_main-thumb-300xauto-4206.jpg",
+      "categoryName": "プロジェクトレポート",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat4",
+      "createdAt": "2017.06.29"
+    },
+    {
+      "title": "外からつくる、内からつくる。 <br />生えてくるデザインを考える。",
+      "url": "/posts/2017/06/284312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170626_main-thumb-300xauto-4227.jpg",
+      "categoryName": "Food Hub Project",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/food-hub-project",
+      "createdAt": "2017.06.28"
+    },
+    {
+      "title": "雨の少ない梅雨 「水」にちなんだ本で読書会<br /> 〜モノサスの「読書会」＃14〜",
+      "url": "/posts/2017/06/274312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170627_main-thumb-300xauto-4224.jpg",
+      "categoryName": "図書だより",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat13",
+      "createdAt": "2017.06.27"
+    },
+    {
+      "title": "\"言いたくないことは言わなくていい\" <br />居場所をつくる<br />~「 Prism 」で出会った友人へのインタビュー #01 ~",
+      "url": "/posts/2017/06/262700.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170628_main-thumb-300xauto-4191.jpg",
+      "categoryName": "TOPICS",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/topics",
+      "createdAt": "2017.06.26"
+    },
+    {
+      "title": "自由と信頼と責任<br /> 班長たちのフルフレックス",
+      "url": "/posts/2017/06/234312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170623_main-thumb-300xauto-4209.jpg",
+      "categoryName": "自由と責任  〜みんなの制度と働き方実験室〜",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat20",
+      "createdAt": "2017.06.23"
+    },
+    {
+      "title": "今月のMVPは「ぽん」っとひとつ抜けた、<br />プロデュース部の畠中友香。",
+      "url": "/posts/2017/06/224312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170622_main-thumb-300xauto-4166.jpg",
+      "categoryName": "今月のMVP",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/mvp",
+      "createdAt": "2017.06.22"
+    },
+    {
+      "title": "「デッサンの眼」<br />〜デザインの現場からみたデッサンの有効性〜",
+      "url": "/posts/2017/06/212700.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/assets_c\/2017/06/20170621_main-thumb-300xauto-4160.jpg",
+      "categoryName": "デザインの目のつけどころ",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/cat3",
+      "createdAt": "2017.06.21"
+    },
+    {
+      "title": "雨にぴったりの曲で気分を変えて <br />〜ものさすスタッフ6人が選んだ雨の日に聴きたい曲〜",
+      "url": "/posts/2017/06/194312.html",
+      "thumb": "http:\/\/www.monosus.co.jp\/posts\/images/20170619_main.jpg",
+      "categoryName": "TOPICS",
+      "categoryUrl": "http:\/\/www.monosus.co.jp\/posts\/topics",
+      "createdAt": "2017.06.19"
+    }
+  ]
+}
