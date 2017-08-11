@@ -1,0 +1,61 @@
+@import '../variables.css';
+
+.pagination {
+  text-align: center;
+  position: relative;
+  display: block;
+  margin-bottom: 40px;
+}
+.pagination::before,
+.pagination::after {
+  content: " ";
+  display: table;
+}
+.pagination::after {
+  clear: both;
+}
+
+.pagination ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+.pagination ul li {
+  margin-left: 2px;
+  margin-right: 2px;
+  display: inline-block;
+}
+
+.pagination ul li a {
+  font-size: 12px;
+  font-weight: 400;
+  color: #333333;
+  text-decoration: none;
+  display: block;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  border: 1px solid #d4d4d4;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  transition: all 0.18s ease-in-out;
+}
+
+.pagination ul li a:hover {
+  background-color: #e5eaf3;
+}
+
+.pagination ul li a.isActive {
+  border-color: #999;
+  background-color: #999;
+  color: #fff;
+}
+
+.pagination ul li.next a {
+  text-indent: -9999px;
+  white-space: nowrap;
+  background-image: url('./ico_pagenavi_right.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 10px auto;
+}

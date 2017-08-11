@@ -1,0 +1,44 @@
+@import '../variables.css';
+
+.root {
+  background: #fff;
+  color: #fff;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: center;
+}
+
+.footerNavi {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  padding: 40px 0;
+}
+
+.text,
+.link {
+  padding: 0 35px;
+  font-size: 1em;
+}
+
+.link,
+.link:active,
+.link:visited {
+  font-size: 12px;
+  font-weight: 400;
+  color: #1d5ab6;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
+
+.copyright {
+  color: #333;
+  font-size: 12px;
+  font-weight: normal;
+  margin: 40px auto;
+}

@@ -1,0 +1,60 @@
+@import '../variables.css';
+
+.postCard {
+  width: 100%;
+  height: 304px;
+  display: block;
+  overflow: hidden;
+  position: relative;
+}
+
+.postCard a {
+  display: block;
+}
+
+.postImage {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.postImage img {
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+  display: block;
+}
+
+.postImage img:hover {
+  -webkit-transform: scale(1.04);
+  -moz-transform: scale(1.04);
+  -ms-transform: scale(1.04);
+  -o-transform: scale(1.04);
+  transform: scale(1.04);
+}
+
+.cardInfo a:hover {
+  text-decoration: underline;
+}
+
+.cardInfo .date {
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.cardInfo .title {
+  color: #222;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.cardInfo .category {
+  padding: 0 0 0 18px;
+  background: url('./ico_cat_black_sp.png') no-repeat left center;
+  background-size: 13px auto;
+}
+
+.cardInfo .category span {
+  color: #888;
+  font-size: 14px;
+}

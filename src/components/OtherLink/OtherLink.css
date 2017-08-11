@@ -1,0 +1,74 @@
+@import '../variables.css';
+
+.otherLink {
+  text-align: center;
+  position: relative;
+  display: block;
+  margin-bottom: 80px;
+}
+.otherLink::before,
+.otherLink::after {
+  content: " ";
+  display: table;
+}
+.otherLink::after {
+  clear: both;
+}
+
+.otherLink ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+.otherLink ul li {
+  display: inline-block;
+  margin: 0 10px;
+  border: 1px solid #cdcdcd;
+  width: 210px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+.otherLink ul li a {
+  color: #1d5ab6;
+  font-weight: 400;
+  text-decoration: none;
+  font-size: 14px;
+  display: block;
+  padding: 12px 0;
+  -webkit-transition: all 0.18s ease-in-out;
+  -moz-transition: all 0.18s ease-in-out;
+  -ms-transition: all 0.18s ease-in-out;
+  -o-transition: all 0.18s ease-in-out;
+  transition: all 0.18s ease-in-out;
+}
+
+.otherLink ul li a:hover {
+  background-color: #f5f5f5;
+  text-decoration: none;
+}
+
+.otherLink ul li a span {
+  color: #1d5ab6;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.otherLink ul li a span {
+  padding: 0 0 0 24px;
+  background-repeat: no-repeat;
+  background-size: auto 14px;
+  background-position: left center;
+}
+
+.otherLink ul li a.category span {
+  background-image: url('./ico_cat_black_sp.png');
+}
+
+.otherLink ul li a.author span {
+  background-image: url('./ico_author.jpg');
+}
+
+.otherLink ul li a.date span {
+  background-image: url('./ico_calender.png');
+}

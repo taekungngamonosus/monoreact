@@ -1,0 +1,40 @@
+@import '../variables.css';
+
+.header {
+  width: 100%;
+  display: block;
+}
+
+.headerWrap {
+  position: relative;
+  width: 100%;
+  height: 130px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.headerInner {
+  height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.headerInner h1 {
+  float: left;
+  padding: 43px 0 0 0;
+  margin: 0 !important;
+}
+
+.headerInner h1 a {
+  display: block;
+  text-indent: -9999px;
+  width: 180px;
+  height: 46px;
+  background-image: url('./logo.jpg');
+  background-position: left center;
+  background-repeat: no-repeat;
+}
+
+:root {
+  --brand-color: #61dafb;
+}

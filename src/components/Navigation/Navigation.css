@@ -1,0 +1,95 @@
+.headerNaviWrap {
+  float: right;
+  height: 100%;
+  position: relative;
+}
+
+.globalNavi {
+  height: 100%;
+  width: auto;
+  float: left;
+}
+
+.globalNavi ul {
+  margin: 15px -15px 19px 0;
+  overflow: hidden;
+  list-style: none;
+  position: relative;
+}
+
+.globalNavi ul li {
+  display: inline-block;
+  float: left;
+  padding: 35px 20px;
+}
+
+.globalNavi ul li:first-child {
+  padding-left: 0;
+}
+
+.globalNavi ul li:last-child {
+  padding-right: 0;
+}
+
+.globalNavi ul li a {
+  color: #333;
+  font-size: 14px;
+  font-weight: 700;
+  text-indent: -9999px;
+  white-space: nowrap;
+}
+
+.globalNavi ul li.isActive a,
+.globalNavi ul li a:hover {
+  border-bottom: 2px solid #b72c28;
+}
+
+.globalNavi ul li.disabledActive,
+.globalNavi ul li.disabledActive:hover a {
+  border-bottom: none !important;
+}
+
+.link {
+  height: 21px;
+  padding: 0;
+  text-decoration: none;
+  background-image: url('./gnavi.jpg');
+  background-repeat: no-repeat;
+  webkit-background-size: 551.5px 20px;
+  -o-background-size: 551.5px 20px;
+  background-size: 551.5px 20px;
+  display: inline-block;
+}
+
+.postsItem {
+  width: 64px;
+  background-position: left center;
+}
+
+.serviceItem {
+  width: 72px;
+  background-position: -104px center;
+}
+
+.companyItem {
+  width: 74px;
+  background-position: -216px center;
+}
+
+.accessItem {
+  width: 90px;
+  background-position: -330px center;
+}
+
+.contactItem {
+  width: 94px;
+  background-position: -457px center;
+}
+
+.monosusItem {
+  width: 106px;
+  background: url('./logo_en.jpg') left center no-repeat;
+  -webkit-background-size: 100% auto;
+  -o-background-size: 100% auto;
+  background-size: 100% auto;
+}
